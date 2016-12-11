@@ -1,0 +1,13 @@
+.idea/
+.setttings/
+*.log
+*.iml
+.classpath
+.project
+*.iws
+Multichoice/target/
+*.class
+target/
+data/
+.metadata/
+../.metadata/
